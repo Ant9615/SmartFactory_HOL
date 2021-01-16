@@ -1,0 +1,4 @@
+python tqdm 설치해보기 (반복문 진행도 보여줌)
+python gym 설명서 
+http://www.secmem.org/blog/2019/03/09/OpenAI-Gym-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/
+share point는 협업툴
